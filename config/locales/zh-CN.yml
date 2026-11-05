@@ -1170,7 +1170,7 @@ zh-CN:
         label: 恢复
       setup:
         label: 设置
-      title: 服务器状态
+      title: 服务器健康状态
     settings:
       about:
         manage_rules: 管理服务器规则

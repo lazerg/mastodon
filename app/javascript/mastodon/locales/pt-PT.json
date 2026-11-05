@@ -751,7 +751,6 @@
   "empty_column.collections_self": "Ainda não criou nenhuma coleção.",
   "empty_column.community": "A cronologia local está vazia. Escreve algo publicamente para começar!",
   "empty_column.custom_feed": "Ainda não há conteúdo neste feed personalizado. Quando os membros deste feed publicarem novas atualizações, elas aparecerão aqui.",
-  "empty_column.direct": "Ainda não tens qualquer menção privada. Quando enviares ou receberes uma, ela irá aparecer aqui.",
   "empty_column.disabled_feed": "Esta cronologia foi desativada pelos administradores do seu servidor.",
   "empty_column.explore_statuses": "Não há nada em destaque neste momento. Volte mais tarde!",
   "empty_column.favourited_statuses": "Ainda não assinalaste qualquer publicação como favorita. Quando o fizeres, ela aparecerá aqui.",

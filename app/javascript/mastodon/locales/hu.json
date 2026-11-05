@@ -752,7 +752,6 @@
   "empty_column.collections_self": "Még nem hoztál létre gyűjteményt.",
   "empty_column.community": "A helyi idővonal üres. Tégy közzé valamit nyilvánosan, hogy elindítsd az eseményeket!",
   "empty_column.custom_feed": "Még nincs semmi ebben az egyéni hírfolyamban. Ha a hírfolyamtagok új bejegyzéseket osztanak meg, itt fognak megjelenni.",
-  "empty_column.direct": "Még nincs egy személyes említésed sem. Küldéskor vagy fogadáskor itt fognak megjelenni.",
   "empty_column.disabled_feed": "A kiszolgálód rendszergazdái letiltották ezt a hírfolyamot.",
   "empty_column.explore_statuses": "Jelenleg semmi sem felkapott. Nézz vissza később!",
   "empty_column.favourited_statuses": "Még nincs egyetlen kedvenc bejegyzésed sem. Ha kedvencnek jelölsz egyet, itt fog megjelenni.",

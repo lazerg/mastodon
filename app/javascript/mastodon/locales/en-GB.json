@@ -636,7 +636,6 @@
   "empty_column.collections.featured_in_undiscoverable": "In order for people to add you to collections, you need to allow featuring in discovery experiences from <link>Preferences > Privacy and reach</link>",
   "empty_column.collections_self": "You have not created any collections yet.",
   "empty_column.community": "The local timeline is empty. Write something publicly to get the ball rolling!",
-  "empty_column.direct": "You don't have any private mentions yet. When you send or receive one, it will show up here.",
   "empty_column.disabled_feed": "This feed has been disabled by your server administrators.",
   "empty_column.explore_statuses": "Nothing is trending right now. Check back later!",
   "empty_column.favourited_statuses": "You don't have any favourite posts yet. When you favourite one, it will show up here.",

@@ -400,7 +400,6 @@
   "empty_column.account_unavailable": "Perfil no disponible",
   "empty_column.bookmarked_statuses": "Encara no has marcat cap tut. Quan en marquis un, apareixerà aquí.",
   "empty_column.community": "La línia de temps local és buida. Escriu alguna cosa públicament per posar-ho tot en marxa!",
-  "empty_column.direct": "Encara no tens mencions privades. Quan n'enviïs o en rebis una, et sortirà aquí.",
   "empty_column.disabled_feed": "L'administració del vostre servidor ha desactivat aquest canal.",
   "empty_column.explore_statuses": "No hi ha res en tendència ara mateix. Revisa-ho més tard!",
   "empty_column.favourited_statuses": "Encara no has afavorit cap tut. Quan ho facis, apareixerà aquí.",

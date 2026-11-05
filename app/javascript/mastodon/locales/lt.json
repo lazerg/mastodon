@@ -447,7 +447,6 @@
   "empty_column.account_unavailable": "Profilis neprieinamas.",
   "empty_column.bookmarked_statuses": "Dar neturi nė vienos įrašo su žyma. Kai vieną žymų pridėsi prie įrašo, jis bus rodomas čia.",
   "empty_column.community": "Vietinė laiko skalė yra tuščia. Parašyk ką nors viešai, kad pradėtum sąveikauti.",
-  "empty_column.direct": "Dar neturi jokių asmeninių susirašinėjimų (su žyma @). Kai išsiųsi arba gausi vieną iš jų, jis bus rodomas čia.",
   "empty_column.disabled_feed": "Šis srautas buvo išjungtas jūsų serverio administratorių.",
   "empty_column.explore_statuses": "Šiuo metu niekas nėra tendencinga. Patikrinkite vėliau!",
   "empty_column.favourited_statuses": "Dar neturi mėgstamų įrašų. Kai vieną iš jų pamėgsi, jis bus rodomas čia.",
